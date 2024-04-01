@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jptroll
 - 👀 I’m interested in Music, Videogames, Electronics
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: Discord (Jptroll#6462)
+- 🌱 I’m currently learning whatever crosses my eyes
+- 📫 How to reach me: Discord (Jptroll)
 
 <!---
 Jptroll/Jptroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
